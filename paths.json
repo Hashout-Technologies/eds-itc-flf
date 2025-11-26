@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/family-like-friends-eds/:/",
-    "/content/family-like-friends-eds/configuration:/.helix/config.json",
-    "/content/family-like-friends-eds/metadata:/metadata.json"
+    "/content/family-like-friends-eds-site/:/",
+    "/content/family-like-friends-eds-site/configuration:/.helix/config.json",
+    "/content/family-like-friends-eds-site/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/family-like-friends-eds/"
+    "/content/family-like-friends-eds-site/"
   ]
 }
